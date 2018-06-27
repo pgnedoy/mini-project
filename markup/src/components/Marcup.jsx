@@ -13,8 +13,8 @@ class Marcup extends Component {
             <div class="item3">Block C</div>  
             <div class="item4">Block B</div>
             <div class="item5">Block D</div>
+            {/* <div class="emptyItem"></div> */}
             <div class="item6">Block E</div>
-            
             <div class="item7">Footer</div>
         </div> 
       )
