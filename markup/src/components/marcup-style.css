@@ -1,7 +1,15 @@
+
 .item1 { 
     grid-area: header; 
     grid-column-start: 1;
     grid-column-end: 7;
+    /* position: fixed; */
+    grid-area: header;
+    background-color: grey;
+    position: sticky;
+    top: 0;
+    min-height: 3.5rem;
+    z-index: 2;
 }
 .item2 { 
     grid-area: blockA; 
